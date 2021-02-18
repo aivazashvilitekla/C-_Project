@@ -1,0 +1,383 @@
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\EntityFramework.xml
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CopyComplete
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.frmAddCustomer.resources
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.frmAddOrder.resources
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.frmAddSupplier.resources
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.frmAddProduct.resources
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.choose.resources
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\EnvDTE.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\EnvDTE80.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\stdole.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\VSLangProj.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\VSLangProj80.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Microsoft.MSXML.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\VSLangProj2.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\log4net.xml
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\cs\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\da\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\de\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\en\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\es\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\fi\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\fr\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\hu\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\it\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\ja\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\ko\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\nb-NO\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\nl\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\pl\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\pt\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\ru\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\sk\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\sv\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\th\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\tr\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\zh-CHS\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\zh-CHT\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\cs\CrystalDecisions.ReportSource.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\da\CrystalDecisions.ReportSource.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\de\CrystalDecisions.ReportSource.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\en\CrystalDecisions.ReportSource.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\es\CrystalDecisions.ReportSource.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\fi\CrystalDecisions.ReportSource.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\fr\CrystalDecisions.ReportSource.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\hu\CrystalDecisions.ReportSource.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\it\CrystalDecisions.ReportSource.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\ja\CrystalDecisions.ReportSource.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\ko\CrystalDecisions.ReportSource.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\nb-NO\CrystalDecisions.ReportSource.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\nl\CrystalDecisions.ReportSource.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\pl\CrystalDecisions.ReportSource.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\pt\CrystalDecisions.ReportSource.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\ru\CrystalDecisions.ReportSource.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\sk\CrystalDecisions.ReportSource.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\sv\CrystalDecisions.ReportSource.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\th\CrystalDecisions.ReportSource.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\tr\CrystalDecisions.ReportSource.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\zh-CHS\CrystalDecisions.ReportSource.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\zh-CHT\CrystalDecisions.ReportSource.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\cs\CrystalDecisions.Shared.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\da\CrystalDecisions.Shared.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\de\CrystalDecisions.Shared.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\en\CrystalDecisions.Shared.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\es\CrystalDecisions.Shared.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\fi\CrystalDecisions.Shared.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\fr\CrystalDecisions.Shared.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\hu\CrystalDecisions.Shared.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\it\CrystalDecisions.Shared.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\ja\CrystalDecisions.Shared.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\ko\CrystalDecisions.Shared.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\nb-NO\CrystalDecisions.Shared.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\nl\CrystalDecisions.Shared.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\pl\CrystalDecisions.Shared.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\pt\CrystalDecisions.Shared.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\ru\CrystalDecisions.Shared.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\sk\CrystalDecisions.Shared.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\sv\CrystalDecisions.Shared.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\th\CrystalDecisions.Shared.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\tr\CrystalDecisions.Shared.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\zh-CHS\CrystalDecisions.Shared.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\zh-CHT\CrystalDecisions.Shared.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\cs\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\da\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\de\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\en\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\es\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\fi\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\fr\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\hu\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\it\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\ja\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\ko\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\nb-NO\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\nl\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\pl\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\pt\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\ru\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\sk\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\sv\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\th\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\tr\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\zh-CHS\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\zh-CHT\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe.config
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form2.resources
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\RdlCompile.cache
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\RdlCompile.compiled
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\EntityFramework.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\log4net.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Microsoft.ReportViewer.WebDesign.DLL
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\tekla aivazashvili\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\EntityFramework.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\log4net.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Microsoft.ReportViewer.WebDesign.DLL
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\EnvDTE.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\EnvDTE80.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\stdole.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Microsoft.MSXML.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\EntityFramework.xml
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\log4net.xml
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\cs\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\da\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\de\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\en\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\es\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\fi\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\fr\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\hu\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\it\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\ja\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\ko\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\nb-NO\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\nl\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\pl\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\pt\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\ru\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\sk\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\sv\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\th\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\tr\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\zh-CHS\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\zh-CHT\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\cs\CrystalDecisions.ReportSource.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\da\CrystalDecisions.ReportSource.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\de\CrystalDecisions.ReportSource.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\en\CrystalDecisions.ReportSource.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\es\CrystalDecisions.ReportSource.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\fi\CrystalDecisions.ReportSource.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\fr\CrystalDecisions.ReportSource.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\hu\CrystalDecisions.ReportSource.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\it\CrystalDecisions.ReportSource.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\ja\CrystalDecisions.ReportSource.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\ko\CrystalDecisions.ReportSource.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\nb-NO\CrystalDecisions.ReportSource.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\nl\CrystalDecisions.ReportSource.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\pl\CrystalDecisions.ReportSource.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\pt\CrystalDecisions.ReportSource.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\ru\CrystalDecisions.ReportSource.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\sk\CrystalDecisions.ReportSource.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\sv\CrystalDecisions.ReportSource.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\th\CrystalDecisions.ReportSource.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\tr\CrystalDecisions.ReportSource.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\zh-CHS\CrystalDecisions.ReportSource.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\zh-CHT\CrystalDecisions.ReportSource.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\cs\CrystalDecisions.Shared.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\da\CrystalDecisions.Shared.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\de\CrystalDecisions.Shared.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\en\CrystalDecisions.Shared.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\es\CrystalDecisions.Shared.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\fi\CrystalDecisions.Shared.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\fr\CrystalDecisions.Shared.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\hu\CrystalDecisions.Shared.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\it\CrystalDecisions.Shared.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\ja\CrystalDecisions.Shared.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\ko\CrystalDecisions.Shared.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\nb-NO\CrystalDecisions.Shared.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\nl\CrystalDecisions.Shared.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\pl\CrystalDecisions.Shared.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\pt\CrystalDecisions.Shared.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\ru\CrystalDecisions.Shared.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\sk\CrystalDecisions.Shared.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\sv\CrystalDecisions.Shared.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\th\CrystalDecisions.Shared.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\tr\CrystalDecisions.Shared.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\zh-CHS\CrystalDecisions.Shared.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\zh-CHT\CrystalDecisions.Shared.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\cs\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\da\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\de\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\en\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\es\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\fi\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\fr\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\hu\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\it\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\ja\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\ko\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\nb-NO\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\nl\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\pl\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\pt\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\ru\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\sk\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\sv\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\th\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\tr\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\zh-CHS\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\zh-CHT\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe.config
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.choose.resources
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form2.resources
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.frmAddCustomer.resources
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.frmAddOrder.resources
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.frmAddProduct.resources
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.frmAddSupplier.resources
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CopyComplete
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\teklaaivazashvili\Downloads\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
